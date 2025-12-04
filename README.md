@@ -17,7 +17,7 @@ Project Workflow:
 
   json_extraction.ipynb → produces mimic_ed_clean_combined.csv
 
-- All preprocessed files are stored in the `data/` directory.
+- All preprocessed data files are stored in the `data/` directory.
 
 2. Disposition Prediction
 
